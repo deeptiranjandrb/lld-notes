@@ -1,6 +1,5 @@
 package org.example.designpatterns.observer.observer;
 
-import org.example.designpatterns.observer.observable.ProductAObserver;
 import org.example.designpatterns.observer.observable.StocksObservable;
 
 public class MobileAlertObserver implements NotificationAlertObserver{
